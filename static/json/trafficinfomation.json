@@ -33,13 +33,13 @@
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-104.jpg",
         "name": "Biển số 104 \"Cấm mô tô\"",
-        "description": "Biển số 104 \"Cấm mô tô\", báo đường cấm tất cả các loại môtô đi qua, trừ các xe môtô được ưu tiên theo quy định"
+        "description": " báo đường cấm tất cả các loại môtô đi qua, trừ các xe môtô được ưu tiên theo quy định"
     },
     {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-105.jpg",
         "name": "Biển số 105 \"Cấm ô tô và mô tô\"",
-        "description": "báo đường cấm tất cả các loại xe cơ giới và môtô đi qua trừ xe gắn máy và các xe được ưu tiên theo quy định"
+        "description": " báo đường cấm tất cả các loại xe cơ giới và môtô đi qua trừ xe gắn máy và các xe được ưu tiên theo quy định"
     },
     {
         "trafficid": "1000",
@@ -51,7 +51,7 @@
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-106b.jpg",
         "name": "Biển số 106b \"Cấm ô tô tải\"",
-        "description": " có tổng trọng lượng (trọng lượng xe cộng hàng) vượt quá con số đã quy định trên biển. Biển có hiệu lực cấm đối với cả máy kéo và các xe máy chuyên dùng đi vào đoạn đường đặt biển. "
+        "description": " có tổng trọng lượng (trọng lượng xe cộng hàng) vượt quá con số đã quy định trên biển. Biển có hiệu lực cấm đối với cả máy kéo và các xe máy chuyên dùng đi vào đoạn đường đặt biển. "
     },
     {
         "trafficid": "1000",
@@ -62,13 +62,13 @@
     {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-107.jpg",
-        "name": "Biển số 107 \"Cấm ô tô &nbsp;khách và ô tô\n\t\t\t\t\t\t\t\t\t&nbsp;tải\"",
+        "name": "Biển số 107 \"Cấm ô tô chở khách và ô tô tải\"",
         "description": " báo đường cấm ôtô chở khách và các loại ôtô tải kể cả các loại máy kéo và xe máy thi công chuyên dùng đi qua trừ các xe được ưu tiên theo quy định"
     },
     {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-108.jpg",
-        "name": "Biển số 108 \"Cấm &nbsp;ô tô, máy kéo kéo moóc hoặc sơ mi\n\t\t\t\t\t\t\t\t\trơ moóc\"",
+        "name": "Biển số 108 \"Cấm ô tô, máy kéo kéo moóc hoặc sơ mi rơ moóc\"",
         "description": " máy kéo kéo moóc hoặc sơ mi rơ moóc\", báo đường cấm tất cả các loại xe cơ giới kéo theo rơ-moóc kể cả môtô, máy kéo, ôtô khách kéo theo rơ-moóc đi qua, trừ loại ôtô sơ-mi rơ-moóc và các xe được ưu tiên (có kéo theo rơ-moóc) theo luật lệ nhà nước quy định"
     },
     {
@@ -98,19 +98,19 @@
     {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-111b.jpg",
-        "name": "Biển số 111b \"Cấm xe ba bánh loại có động\n\t\t\t\t\t\t\t\t\tcơ\"",
+        "name": "Biển số 111b \"Cấm xe ba bánh loại có động cơ\"",
         "description": " báo đường cấm xe ba bánh loại có động cơ như xe lam, xích lô máy v.v..."
     },
     {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-111c.jpg",
-        "name": "Biển số 111c \"Cấm xe ba bánh loại có động\n\t\t\t\t\t\t\t\t\tcơ\"",
+        "name": "Biển số 111c \"Cấm xe ba bánh loại có động cơ\"",
         "description": " báo đường cấm xe ba bánh loại có động cơ như xe lôi máy v.v..."
     },
     {
         "trafficid": "1000",
         "image": "/static/image/bien-bao-cam-111d.jpg",
-        "name": "Biển số 111d \"Cấm xe ba bánh loại không có động\n\t\t\t\t\t\t\t\t\tcơ\"",
+        "name": "Biển số 111d \"Cấm xe ba bánh loại không có động cơ\"",
         "description": "báo đường cấm xe ba bánh loại không có động cơ như xích lô, xe lôi đạp v.v..."
     },
     {
@@ -212,7 +212,7 @@
     {
         "trafficid": "-10-",
         "image": "/static/image/bien-bao-cam-126.jpg",
-        "name": "Biển số 126 \"Cấm ôtô &nbsp;tải vượt\"",
+        "name": "Biển số 126 \"Cấm ôtô tải vượt\"",
         "description": "báo cấm các loại ôtô tải vượt xe cơ giới khác. Biển có hiệu lực cấm tất cả các loại ôtô tải có trọng lượng lớn nhất cho phép (bao gồm trọng lượng xe và hàng) trên 3,5Tấn kể cả các xe được ưu tiên theo quy định vượt xe cơ giới khác."
     },
     {
@@ -264,7 +264,7 @@
         "description": "báo các loại xe (cơ giới và thô sơ) kể cả các xe được ưu tiên theo quy định phải nhường đường cho các loại xe cơ giới đang đi theo hướng ngược lại qua các đoạn đường hẹp hoặc cầu hẹp"
     },
     {
-        "trafficid": "1000",
+        "trafficid": "- 15-",
         "image": "/static/image/bien-bao-cam-133.jpg",
         "name": "Biển số 133 \"Hết cấm vượt\"",
         "description": "báo hết đoạn đường cấm vượt"
@@ -310,5 +310,467 @@
         "image": "/static/image/bien-bao-cam-140.jpg",
         "name": "Biển số 140 \"Cấm xe công nông\"",
         "description": "để báo đường cấm công nông"
+    },
+    {
+        "trafficid": "-23-",
+        "image": "/static/image/bien-bao-nguy-hiem-201a.jpg",
+        "name": "Biển số 201a \"Chỗ ngoặt nguy hiểm vòng bên trái\"",
+        "description": "để báo đoạn đường phía trước có chỗ ngoặt nguy hiểm vòng phía bên trái"
+    },
+    {
+        "trafficid": "-26-",
+        "image": "/static/image/bien-bao-nguy-hiem-201b.jpg",
+        "name": "Biển số 201b \"Chỗ ngoặt nguy hiểm vòng bên phải\"",
+        "description": "để báo đoạn đường phía trước có chỗ ngoặt nguy hiểm vòng phía bên trái"
+    },
+    {
+        "trafficid": "-22-",
+        "image": "/static/image/bien-bao-nguy-hiem-202.jpg",
+        "name": "Biển số 202 \"Nhiều chỗ ngoặt nguy hiểm liên tiếp\"",
+        "description": "để báo đoạn đường phía trước có nhiều chỗ ngoặt nguy hiểm liên tiếp"
+    },
+    {
+        "trafficid": "-33-",
+        "image": "/static/image/bien-bao-nguy-hiem-202a.jpg",
+        "name": "Biển số 202a \"Nhiều chỗ ngoặt nguy hiểm liên tiếp bên trái\"",
+        "description": "để báo đoạn đường phía trước có nhiều chỗ ngoặt nguy hiểm liên tiếp phía bên trái"
+    },
+    {
+        "trafficid": "-32-",
+        "image": "/static/image/bien-bao-nguy-hiem-202b.jpg",
+        "name": "Biển số 202b \"Nhiều chỗ ngoặt nguy hiểm liên tiếp bên phải\"",
+        "description": "để báo đoạn đường phía trước có nhiều chỗ ngoặt nguy hiểm liên tiếp phía bên phải"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-203a.jpg",
+        "name": "Biển số 203a \"Đường hẹp\"",
+        "description": "để báo đoạn đường phía trước bị hẹp rất đột ngột ở cả 2 bên"
+    },
+    {
+        "trafficid": "-31-",
+        "image": "/static/image/bien-bao-nguy-hiem-203b.jpg",
+        "name": "Biển số 203b \"Đường bị hẹp phía bên trái\"",
+        "description": "để báo đoạn đường phía trước bị hẹp rất đột ngột về phía bên trái"
+    },
+    {
+        "trafficid": "-27-",
+        "image": "/static/image/bien-bao-nguy-hiem-203c.jpg",
+        "name": "Biển số 203c \"Đường bị hẹp phía bên phải\"",
+        "description": "để báo đoạn đường phía trước bị hẹp rất đột ngột về phía bên phải"
+    },
+    {
+        "trafficid": "-34-",
+        "image": "/static/image/bien-bao-nguy-hiem-204.jpg",
+        "name": "Biển số 204 \"Đường hai chiều\"",
+        "description": "để báo trước sắp đến đoạn đường do sửa chữa hoặc có trở ngại ở một phía đường mà phải tổ chức đi lại cho phương tiện cả hai chiều trên phía đường còn lại hoặc để báo trước đoạn đường đôi tạm thời hoặc đoạn đường có chiều xe đi và về đi chung"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-205a.jpg",
+        "name": "Biển số 205a \"Đường giao nhau cùng cấp\"",
+        "description": "để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng"
+    },
+    {
+        "trafficid": "-28-",
+        "image": "/static/image/bien-bao-nguy-hiem-205b.jpg",
+        "name": "Biển số 205b \"Đường giao nhau cùng cấp\"",
+        "description": "để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng"
+    },
+    {
+        "trafficid": "-30-",
+        "image": "/static/image/bien-bao-nguy-hiem-205c.jpg",
+        "name": "Biển số 205c \"Đường giao nhau cùng cấp\"",
+        "description": "để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-205d.jpg",
+        "name": "Biển số 205d \"Đường giao nhau cùng cấp\"",
+        "description": "để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng"
+    },
+    {
+        "trafficid": "-18-",
+        "image": "/static/image/bien-bao-nguy-hiem-205e.jpg",
+        "name": "Biển số 205e \"Đường giao nhau cùng cấp\"",
+        "description": "để báo trước sắp đến nơi giao nhau cùng mức của các tuyến đường cùng cấp (không có đường nào ưu tiên) trên cùng một mặt bằng"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-206.jpg",
+        "name": "Biển số 206 \"Giao nhau chạy theo vòng xuyến\"",
+        "description": "để báo trước nơi giao nhau có bố trí đảo an toàn ở giữa nút giao, các loại xe qua nút giao phải đi vòng xuyến quanh đảo an toàn theo chiều mũi tên"
+    },
+    {
+        "trafficid": "-35-",
+        "image": "/static/image/bien-bao-nguy-hiem-207a.jpg",
+        "name": "Biển số 207a \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "-16-",
+        "image": "/static/image/bien-bao-nguy-hiem-207b.jpg",
+        "name": "Biển số 207b \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207c.jpg",
+        "name": "Biển số 207c \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "-29-",
+        "image": "/static/image/bien-bao-nguy-hiem-207d.jpg",
+        "name": "Biển số 207d \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207e.jpg",
+        "name": "Biển số 207e \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207f.jpg",
+        "name": "Biển số 207f \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207g.jpg",
+        "name": "Biển số 207g \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207h.jpg",
+        "name": "Biển số 207h \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207i.jpg",
+        "name": "Biển số 207i \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-207k.jpg",
+        "name": "Biển số 207k \"Giao nhau với đường không ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường không ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-208.jpg",
+        "name": "Biển số 208 \"Giao nhau với đường ưu tiên\"",
+        "description": "để báo trước sắp đến nơi giao nhau với đường ưu tiên"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-209.jpg",
+        "name": "Biển số 209 \"Giao nhau có tín hiệu đèn\"",
+        "description": "để  báo trước nơi giao nhau có điều khiển giao thông bằng tín hiệu đèn trong trường hợp người lái xe khó quan sát để kịp thời xử lý"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-210.jpg",
+        "name": "Biển số 210 \"Giao nhau với đường sắt có rào chắn\"",
+        "description": "để báo trước sắp đến chỗ giao nhau giữa đường bộ và đường sắt có rào chắn kín hay rào chắn nửa kín và có nhân viên ngành đường sắt điều khiển giao thông"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-211a.jpg",
+        "name": "Biển số 211a \"Giao nhau với đường sắt không có rào chắn\"",
+        "description": "để báo trước sắp đến chỗ giao nhau giữa đường bộ và đường sắt không có rào chắn, không có nhân viên ngành đường sắt điều khiển giao thông"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-211b.jpg",
+        "name": "Biển số 211b \"Giao nhau với đường tàu điện\"",
+        "description": "chỉ nơi đường bộ giao nhau cùng mức với đường tàu điện"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-211b.jpg",
+        "name": "Biển số 211b \"Cầu hẹp\"",
+        "description": "để báo trước sắp đến cầu hẹp là loại cầu có chiều rộng phần xe chạy nhỏ hơn hoặc bằng 4,5m"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-213.jpg",
+        "name": "Biển số 213 \"Cầu tạm\"",
+        "description": "để báo trước sắp đến cầu tạm là loại cầu được làm để sử dụng tạm thời cho xe cộ qua lại"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-214.jpg",
+        "name": "Biển số 214 \"Cầu quay-cầu cất\"",
+        "description": "để báo phía trước gặp cầu xoay, cầu cất là loại cầu trong từng thời gian có cắt giao thông đường bộ bằng cách quay hoặc nâng nhịp thông thuyền để cho tàu thuyền qua lại"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-215.jpg",
+        "name": "Biển số 215 \"Kè, vực sâu phía trước\"",
+        "description": "để báo trước sắp tới những vị trí có kè chắn vực sâu, hoặc sông suối đi sát đường, cần đề phòng tình huống nguy hiểm rơi xuống vực sâu hoặc sông suối (thường có ở những chỗ ngoặt nguy hiểm)"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-216.jpg",
+        "name": "Biển số 216 \"Đường ngầm\"",
+        "description": "báo trước những vị trí có đường ngầm (đường tràn) phải đặt biển số 216 “Đường ngầm”"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-217.jpg",
+        "name": "Biển số 217 \"Bến phà\"",
+        "description": "báo trước sắp đến bến phà"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-218.jpg",
+        "name": "Biển số 218 \"Cửa chui\"",
+        "description": "để báo trước sắp đến đường có cổng chắn ngang, kiểu cổng như đường hầm, cổng thành, cầu vượt đường bộ dạng cầu vòm v.v..."
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-219.jpg",
+        "name": "Biển số 219 \"Dốc xuống nguy hiểm\"",
+        "description": "báo trước sắp tới đoạn đường xuống dốc nguy hiểm"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-220.jpg",
+        "name": "Biển số 220 \"Dốc lên nguy hiểm\"",
+        "description": "báo trước sắp tới đoạn đường lên dốc nguy hiểm"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-221a.jpg",
+        "name": "Biển số 221a \"Đường có ổ gà, lồi lõm\"",
+        "description": "đặt trong trường hợp đường đang tốt, xe chạy nhanh, chuyển sang những đoạn lồi lõm, gập ghềnh, ổ gà, lượn sóng"
+    },
+    {
+        "trafficid": "-24-",
+        "image": "/static/image/bien-bao-nguy-hiem-221b.jpg",
+        "name": "Biển số 221b \"Đường có sóng mấp mô nhân tạo\"",
+        "description": "để hạn chế tốc độ xe chạy (biển được cắm kèm theo biển số 227 “Hạn chế tốc độ tối đa”), bắt buộc lái xe phải chạy với tốc độ chậm trước khi qua những điểm cần kiểm soát, kiểm tra hoặc giảm tốc độ trước khi vào đoạn đường hạn chế tốc độ tối đa"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-222a.jpg",
+        "name": "Biển số 222a \"Đường trơn\"",
+        "description": "báo trước sắp tới đoạn đường có thể xảy ra trơn trượt đặc biệt là khi thời tiết xấu, mưa phùn (hệ số bám của lốp với mặt đường < 0,3) cần tránh hãm phanh, tăng ga, sang số đột ngột hoặc xe chạy với tốc độ cao sẽ bị nguy hiểm"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-222b.jpg",
+        "name": "Biển số 222b \"Lề đường nguy hiểm\"",
+        "description": "báo những nơi lề đường không ổn định, khi xe đi vào dễ gây văng đất đá hoặc bánh xe quay tại chỗ"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-223a.jpg",
+        "name": "Biển số 223a \"Vách núi nguy hiểm\"",
+        "description": "báo hiệu sắp đi vào đoạn đường đi sát vách núi nằm ở bên tay trái, đường vừa hẹp vừa hạn chế tầm nhìn, người lái xe phải cẩn thận"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-223b.jpg",
+        "name": "Biển số 223b \"Vách núi nguy hiểm\"",
+        "description": "báo hiệu sắp đi vào đoạn đường đi sát vách núi nằm ở bên tay phải, đường vừa hẹp vừa hạn chế tầm nhìn, người lái xe phải cẩn thận"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-224.jpg",
+        "name": "Biển số 224 \"Đường người đi bộ cắt ngang\"",
+        "description": "báo trước sắp tới phần đường dành cho người đi bộ sang qua đường. Gặp biển này các xe phải giảm tốc độ, nhường ưu tiên cho người đi bộ và chỉ được chạy xe khi không gây nguy hiểm cho người đi bộ"
+    },
+    {
+        "trafficid": "-25-",
+        "image": "/static/image/bien-bao-nguy-hiem-225.jpg",
+        "name": "Biển số 225 \"Trẻ em\"",
+        "description": "báo trước là gần đến đoạn đường thường có trẻ em đi ngang qua hoặc tụ tập trên đường như ở vườn trẻ, trường học, câu lạc bộ"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-226.jpg",
+        "name": "Biển số 226 \"Đường người đi xe đạp cắt ngang\"",
+        "description": "báo trước là gần tới vị trí thường có người đi xe đạp từ những đường nhỏ cắt ngang qua hoặc từ đường dành cho xe đạp đi nhập vào đường ôtô"
+    },
+    {
+        "trafficid": "-17-",
+        "image": "/static/image/bien-bao-nguy-hiem-227.jpg",
+        "name": "Biển số 227 \"Công trường\"",
+        "description": "báo trước gần tới đoạn đường đang tiến hành thi công sửa chữa, cải tạo, nâng cấp có người và máy móc đang làm việc trên mặt đường. Khi gặp biển báo này tốc độ xe chạy phải giảm cho thích hợp, không gây nguy hiểm cho người và máy móc trên đoạn đường đó"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-228a.jpg",
+        "name": "Biển số 228a \"Đá lở\"",
+        "description": "báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi. Gặp biển này, người lái xe phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-228b.jpg",
+        "name": "Biển số 228b \"Đá lở\"",
+        "description": "báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường, đặc biệt là ở những đoạn đường miền núi. Gặp biển này, người lái xe phải chú ý; đặc biệt khi thời tiết xấu, hạn chế tầm nhìn, không dừng hay đỗ xe trong khu vực đá lở sau những trận mưa lớn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-228c.jpg",
+        "name": "Biển số 228c \"Sỏi đá bắn lên\"",
+        "description": "báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi băng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-229.jpg",
+        "name": "Biển số 229 \"Giải máy bay lên xuống\"",
+        "description": "báo trước đoạn đường ở vùng sát đường băng sân bay và cắt ngang qua hướng máy bay lên xuống ở độ cao không lớn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-230.jpg",
+        "name": "Biển số 230 \"Gia súc\"",
+        "description": "báo trước gần tới đoạn đường thường có gia súc thả rông hoặc lùa qua ngang đường, đường ở vùng đồng cỏ của nông trường chăn nuôi, vùng thảo nguyên... Người lái xe có trách nhiệm đi chậm, quan sát và dừng lại bảo đảm cho gia súc có thể qua đường không bị nguy hiểm"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-231.jpg",
+        "name": "Biển số 231 \"Thú rừng vượt qua đường\"",
+        "description": "báo trước gần tới đoạn đường thường có thủ rừng qua đường như đường đi qua rừng hay khu vực bảo tồn thiên nhiên cầm săn bắn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-232.jpg",
+        "name": "Biển số 232 \"Gió ngang\"",
+        "description": "báo trước gần tới đoạn đường thường có gió ngang thổi mạnh gây nguy hiểm. Người lái xe cần phải điều chỉnh tốc độ xe chạy cho thích hợp, đề phòng gió thổi mạnh gây lật xe"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-233.jpg",
+        "name": "Biển số 233 \"Nguy hiểm khác\"",
+        "description": "báo trên đường có những nguy hiểm mà không thể vận dụng được các kiểu biển từ biển số 201a đến biển số 232"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-234.jpg",
+        "name": "Biển số 234 \"Giao nhau với đường hai chiều\"",
+        "description": "đặt trên đường một chiều, để báo trước sắp đến vị trí giao nhau với đường hai chiều"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-235.jpg",
+        "name": "Biển số 235 \"Đường đôi\"",
+        "description": "báo trước sắp đến đoạn đường có chiều đi và chiều về phân biệt bằng giải phân cách cứng"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-236.jpg",
+        "name": "Biển số 236 \"Hết đường đôi\"",
+        "description": "báo trước sắp kết thúc đoạn đường có chiều đi và chiều về phân biệt bằng giải phân cách cứng"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-237.jpg",
+        "name": "Biển số 237 \"Cầu vồng\"",
+        "description": "đặt ở trên đoạn đường sắp đến công trình có độ vồng lớn ảnh hưởng tới tầm nhìn, nhắc nhở lái xe lái cẩn thận"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-238.jpg",
+        "name": "Biển số 238 \"Đường cao tốc phía trước\"",
+        "description": "được đặt trên đường nhánh nhập vào đường cao tốc để báo cho các phương tiện đi trên đường này biết có Đường cao tốc ở phía trước"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-239.jpg",
+        "name": "Biển số 239 \"Đường cáp điện ở phía trên\"",
+        "description": "được đặt ở những nơi có đường dây điện cắt ngang phía trên tuyến đường"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-240.jpg",
+        "name": "Biển số 240 \"Đường hầm\"",
+        "description": "nhắc lái xe chú ý chuẩn bị đi vào hầm đường bộ. Biển đặt ở bên phải chiều đi trước khi vào hầm"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-241.jpg",
+        "name": "Biển số 241 \"Ùn tắc giao thông\"",
+        "description": "báo đoạn đường hay xảy ra ùn tắc giao thông"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-242a.jpg",
+        "name": "Biển số 242a \"Nơi đường sắt giao vuông góc với đường bộ\"",
+        "description": "bổ sung cho biển số 211 “Giao nhau với đường sắt không có rào chắn”, để chỉ chỗ đường sắt giao vuông góc đường bộ, và tại chỗ giao nhau đường sắt chỉ có một đường cắt ngang đường bộ"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-242b.jpg",
+        "name": "Biển số 242b \"Nơi đường sắt giao vuông góc với đường bộ\"",
+        "description": "bổ sung cho biển số 211 “Giao nhau với đường sắt không có rào chắn”, để chỉ chỗ đường sắt giao vuông góc đường bộ, và tại chỗ giao nhau đường sắt có từ hai đường cắt ngang đường bộ"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-243a.jpg",
+        "name": "Biển số 243a \"Nơi đường sắt giao không vuông góc với đường bộ\"",
+        "description": "đặt ở nơi cách ray ngoài cùng nơi giao đường sắt 50m, bảo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-243b.jpg",
+        "name": "Biển số 243b \"Nơi đường sắt giao không vuông góc với đường bộ\"",
+        "description": "đặt ở nơi cách ray ngoài cùng nơi giao đường sắt 100m, báo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-243c.jpg",
+        "name": "Biển số 243c \"Nơi đường sắt giao không vuông góc với đường bộ\"",
+        "description": "Nơi đường sắt giao không vuông góc với đường bộ “, đặt ở nơi cách ray ngoài cùng nơi giao đường sắt 150m, bảo trước sắp đến vị trí giao cắt đường bộ với đường sắt cùng mức, không vuông góc và không có người gác, không có rào chắn"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-244.jpg",
+        "name": "Biển số 244 \"Đoạn đường hay xảy ra tai nạn\"",
+        "description": "cảnh báo nguy hiểm đoạn đường phía trước thường xảy ra tai nạn để lái xe cần đặc biệt chú ý"
+    },
+    {
+        "trafficid": "-20-",
+        "image": "/static/image/bien-bao-nguy-hiem-245a.jpg",
+        "name": "Biển số 245a \"Đi chậm\"",
+        "description": "nhắc lái xe giảm tốc độ đi chậm"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-nguy-hiem-245b.jpg",
+        "name": "Biển số 245b \"Đi chậm\"",
+        "description": "nhắc lái xe giảm tốc độ đi chậm, đối với các tuyến đường đối ngoại\n\n\n"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-hieu-lenh-301a.jpg",
+        "name": "Biển số 301a \"Chỉ được đi thẳng\"",
+        "description": "để báo cho các loại xe (thô sơ và cơ giới) chỉ được đi thẳng"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-hieu-lenh-301b.jpg",
+        "name": "Biển số 301b \"Chỉ được rẽ phải\"",
+        "description": "để báo cho các loại xe (thô sơ và cơ giới) chỉ được rẽ phải"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-hieu-lenh-301c.jpg",
+        "name": "Biển số 301c \"Chỉ được rẽ trái\"",
+        "description": "để báo cho các loại xe (thô sơ và cơ giới) chỉ được rẽ trái"
+    },
+    {
+        "trafficid": "1000",
+        "image": "/static/image/bien-bao-hieu-lenh-303.jpg",
+        "name": "Biển số 303 \"Nơi giao nhau chạy theo vòng xuyến\"",
+        "description": "để báo hiệu cho các loại xe (bao gồm cả xe thô sơ và cơ giới) phải chạy vòng theo đảo an toàn ở nơi đường giao nhau"
     }
 ]

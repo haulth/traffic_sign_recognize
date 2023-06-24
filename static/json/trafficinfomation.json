@@ -264,7 +264,7 @@
         "description": "báo các loại xe (cơ giới và thô sơ) kể cả các xe được ưu tiên theo quy định phải nhường đường cho các loại xe cơ giới đang đi theo hướng ngược lại qua các đoạn đường hẹp hoặc cầu hẹp"
     },
     {
-        "trafficid": "- 15-",
+        "trafficid": "-15-",
         "image": "/static/image/bien-bao-cam-133.jpg",
         "name": "Biển số 133 \"Hết cấm vượt\"",
         "description": "báo hết đoạn đường cấm vượt"

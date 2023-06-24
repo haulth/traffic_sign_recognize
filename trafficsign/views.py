@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from django.http import JsonResponse
 from django.views.generic import TemplateView
 from django.core.files.storage import FileSystemStorage
-
+import os
 from . import util
 
 
@@ -15,6 +15,8 @@ def index(request):
     if request.method == 'POST':
         context = util.detectTrafficSign(request)
     context['title'] = 'Trang chủ'
+
+    
     return render(request, 'index.html', context=context)
 
 

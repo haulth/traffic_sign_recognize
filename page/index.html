@@ -34,7 +34,8 @@
 			{% endif %}
 		</form>
 	</div>
-	
+
+
 	{% if traffictrainid %}
 	<div class="is-divider-vertical "></div>
 	<div id="resultColumn" class="column has-result">
@@ -72,7 +73,7 @@
 						chưa đúng</span></button>
 				<button onclick="indexrender.showDetail()" class="button is-info"><span class="icon"><i
 							class="fa fa-search"></i></span><span>Xem chi tiết </span></button><a
-					class="button is-light is-dark" href="https://github.com/quangkhoiuit98/trafficsignrecognize"
+					class="button is-light is-dark" href="#"
 					target="_blank"><span class="icon"><i class="fab fa-github"></i></span><span>Star Github</span></a>
 
 			</div>
@@ -135,7 +136,38 @@
 	document.addEventListener('DOMContentLoaded', (event) => {
 
 		indexrender.build();
+		const qq = document.querySelector('strong[snb-key="name"]');
+
+		// Lắng nghe sự kiện thay đổi của thẻ span
+		qq.addEventListener('DOMSubtreeModified', () => {
+		// Lấy nội dung mới của thẻ span
+		const content = qq.innerText;
+
+		// Kiểm tra nội dung có trống hay không
+		if (content.trim() !== '') {
+			// Sử dụng hàm Text-To-Speech của trình duyệt để đọc nội dung ra
+			const speech = new SpeechSynthesisUtterance(content);
+			speech.lang = 'vi-VN';
+			window.speechSynthesis.speak(speech);
+		}
+		});
+		const span = document.querySelector('span[snb-key="description"]');
+
+		// Lắng nghe sự kiện thay đổi của thẻ span
+		span.addEventListener('DOMSubtreeModified', () => {
+		// Lấy nội dung mới của thẻ span
+		const content = span.innerText;
+
+		// Kiểm tra nội dung có trống hay không
+		if (content.trim() !== '') {
+			// Sử dụng hàm Text-To-Speech của trình duyệt để đọc nội dung ra
+			const speech = new SpeechSynthesisUtterance(content);
+			speech.lang = 'vi-VN';
+			window.speechSynthesis.speak(speech);
+		}
+		});
 	});
+
 </script>
 
 {% endblock %}

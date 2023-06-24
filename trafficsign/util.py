@@ -12,6 +12,7 @@ from keras.models import load_model
 from PIL import Image
 import os
 import sys
+import json
 
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
@@ -154,5 +155,14 @@ def cropAndDetectTrafficSign(context):
 def detectTrafficSign(request):
     context = uploadFile(request)
     prediction = cropAndDetectTrafficSign(context)
+    strin= str(prediction)
     context['traffictrainid'] = prediction
+    path = os.getcwd()
+    # with open(path +"/static/json/trafficinfomation.json", "r", encoding="utf-8") as f:
+    #     dict_translate = json.load(f)
+    # for item in dict_translate:
+    #    if item['trafficid'] == '-'+strin+'-':
+    #        print(item['name'])
+    #        print(item['description'])
+        
     return context
